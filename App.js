@@ -85,4 +85,9 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+  listcontainer: {
+    flexDirection: 'row',
+    backgroundColor: '#fff',
+    alignItems: 'center'
+  },
 });
